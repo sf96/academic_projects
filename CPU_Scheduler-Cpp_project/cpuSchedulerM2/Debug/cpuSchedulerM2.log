@@ -1,0 +1,15 @@
+﻿  cpu_scheduler.cpp
+c:\dysk\politechnika\symulacja\cpuschedulerm2\cpuschedulerm2\cpu_scheduler.cpp(76): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\dysk\politechnika\symulacja\cpuschedulerm2\cpuschedulerm2\cpu_scheduler.cpp(81): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\dysk\politechnika\symulacja\cpuschedulerm2\cpuschedulerm2\cpu_scheduler.cpp(86): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+c:\dysk\politechnika\symulacja\cpuschedulerm2\cpuschedulerm2\cpu_scheduler.cpp(91): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Generowanie kodu...
+  Trwa kompilowanie...
+  main.cpp
+  Generowanie kodu...
+  Pomijanie... (nie wykryto odpowiednich zmian)
+  simulation.cpp
+  new_process.cpp
+  end_io.cpp
+  end_cpu.cpp
+  cpuSchedulerM2.vcxproj -> C:\DYSK\Politechnika\SYMULACJA\cpuSchedulerM2\Debug\cpuSchedulerM2.exe
