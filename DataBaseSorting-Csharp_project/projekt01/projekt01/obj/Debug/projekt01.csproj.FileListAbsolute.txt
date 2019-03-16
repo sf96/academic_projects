@@ -1,0 +1,18 @@
+C:\DYSK\Politechnika\Csharp\projekt01\projekt01\bin\Debug\projekt01.exe.config
+C:\DYSK\Politechnika\Csharp\projekt01\projekt01\bin\Debug\projekt01.exe
+C:\DYSK\Politechnika\Csharp\projekt01\projekt01\bin\Debug\projekt01.pdb
+C:\DYSK\Politechnika\Csharp\projekt01\projekt01\bin\Debug\Oracle.DataAccess.dll
+C:\DYSK\Politechnika\Csharp\projekt01\projekt01\obj\Debug\projekt01.csprojAssemblyReference.cache
+C:\DYSK\Politechnika\Csharp\projekt01\projekt01\obj\Debug\projekt01.csproj.CoreCompileInputs.cache
+C:\DYSK\Politechnika\Csharp\projekt01\projekt01\obj\Debug\projekt01.csproj.CopyComplete
+C:\DYSK\Politechnika\Csharp\projekt01\projekt01\obj\Debug\projekt01.exe
+C:\DYSK\Politechnika\Csharp\projekt01\projekt01\obj\Debug\projekt01.pdb
+C:\Users\Szymon\Downloads\Projekt Szymon Fraszczak Csharp\projekt01\projekt01\bin\Debug\projekt01.exe.config
+C:\Users\Szymon\Downloads\Projekt Szymon Fraszczak Csharp\projekt01\projekt01\bin\Debug\projekt01.exe
+C:\Users\Szymon\Downloads\Projekt Szymon Fraszczak Csharp\projekt01\projekt01\bin\Debug\projekt01.pdb
+C:\Users\Szymon\Downloads\Projekt Szymon Fraszczak Csharp\projekt01\projekt01\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Szymon\Downloads\Projekt Szymon Fraszczak Csharp\projekt01\projekt01\obj\Debug\projekt01.csprojAssemblyReference.cache
+C:\Users\Szymon\Downloads\Projekt Szymon Fraszczak Csharp\projekt01\projekt01\obj\Debug\projekt01.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Downloads\Projekt Szymon Fraszczak Csharp\projekt01\projekt01\obj\Debug\projekt01.csproj.CopyComplete
+C:\Users\Szymon\Downloads\Projekt Szymon Fraszczak Csharp\projekt01\projekt01\obj\Debug\projekt01.exe
+C:\Users\Szymon\Downloads\Projekt Szymon Fraszczak Csharp\projekt01\projekt01\obj\Debug\projekt01.pdb

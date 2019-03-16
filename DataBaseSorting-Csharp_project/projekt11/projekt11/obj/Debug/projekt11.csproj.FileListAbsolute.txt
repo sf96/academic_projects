@@ -1,0 +1,12 @@
+C:\DYSK\Politechnika\Csharp\projekt11\projekt11\bin\Debug\projekt11.exe.config
+C:\DYSK\Politechnika\Csharp\projekt11\projekt11\bin\Debug\projekt11.exe
+C:\DYSK\Politechnika\Csharp\projekt11\projekt11\bin\Debug\projekt11.pdb
+C:\DYSK\Politechnika\Csharp\projekt11\projekt11\bin\Debug\Oracle.DataAccess.dll
+C:\DYSK\Politechnika\Csharp\projekt11\projekt11\obj\Debug\projekt11.csprojAssemblyReference.cache
+C:\DYSK\Politechnika\Csharp\projekt11\projekt11\obj\Debug\projekt11.Form1.resources
+C:\DYSK\Politechnika\Csharp\projekt11\projekt11\obj\Debug\projekt11.Properties.Resources.resources
+C:\DYSK\Politechnika\Csharp\projekt11\projekt11\obj\Debug\projekt11.csproj.GenerateResource.cache
+C:\DYSK\Politechnika\Csharp\projekt11\projekt11\obj\Debug\projekt11.csproj.CoreCompileInputs.cache
+C:\DYSK\Politechnika\Csharp\projekt11\projekt11\obj\Debug\projekt11.csproj.CopyComplete
+C:\DYSK\Politechnika\Csharp\projekt11\projekt11\obj\Debug\projekt11.exe
+C:\DYSK\Politechnika\Csharp\projekt11\projekt11\obj\Debug\projekt11.pdb

@@ -1,0 +1,9 @@
+C:\DYSK\Politechnika\Csharp\projekt21\projekt21\bin\Debug\projekt21.exe.config
+C:\DYSK\Politechnika\Csharp\projekt21\projekt21\bin\Debug\projekt21.exe
+C:\DYSK\Politechnika\Csharp\projekt21\projekt21\bin\Debug\projekt21.pdb
+C:\DYSK\Politechnika\Csharp\projekt21\projekt21\bin\Debug\Oracle.DataAccess.dll
+C:\DYSK\Politechnika\Csharp\projekt21\projekt21\obj\Debug\projekt21.csprojAssemblyReference.cache
+C:\DYSK\Politechnika\Csharp\projekt21\projekt21\obj\Debug\projekt21.csproj.CoreCompileInputs.cache
+C:\DYSK\Politechnika\Csharp\projekt21\projekt21\obj\Debug\projekt21.csproj.CopyComplete
+C:\DYSK\Politechnika\Csharp\projekt21\projekt21\obj\Debug\projekt21.exe
+C:\DYSK\Politechnika\Csharp\projekt21\projekt21\obj\Debug\projekt21.pdb
